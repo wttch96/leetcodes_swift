@@ -62,8 +62,11 @@
 * [51. N 皇后II](https://leetcode.cn/problems/n-queens-ii/) ---代码:[【解】](./leetcodes-swift/001-100/41-60/52.swift)
 * [37. 解数独](https://leetcode.cn/problems/sudoku-solver/) ---代码:[【解】](./leetcodes-swift/001-100/21-40/37.swift) ![](https://shields.io/badge/-难-red) 
 
+
 ## 哈希
 * [36. 有效的数独](https://leetcode.cn/problems/valid-sudoku/) ---代码:[【解】](./leetcodes-swift/001-100/21-40/36.swift) ![](https://shields.io/badge/-中-orange) 
+* [205. 同构字符串](https://leetcode.cn/problems/isomorphic-strings/) ---代码:[【解】](./leetcodes-swift/201-300/201-220/205.swift) ![](https://shields.io/badge/-易-green) 
+
 
 ## 矩阵
 * [48. 旋转图像](https://leetcode.cn/problems/rotate-image/) ---代码:[【解】](./leetcodes-swift/001-100/41-60/48.swift) ![](https://shields.io/badge/-中-orange) 
