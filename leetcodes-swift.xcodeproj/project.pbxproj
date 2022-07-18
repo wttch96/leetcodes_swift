@@ -90,6 +90,9 @@
 		49606D8428855B09006CB30D /* 205.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49606D8328855B09006CB30D /* 205.swift */; };
 		49606D8628855F93006CB30D /* 206.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49606D8528855F93006CB30D /* 206.swift */; };
 		49606D882885645C006CB30D /* 219.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49606D872885645C006CB30D /* 219.swift */; };
+		49606D8A288566E7006CB30D /* 225.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49606D89288566E7006CB30D /* 225.swift */; };
+		49606D8D28856975006CB30D /* tests221-240.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49606D8C28856975006CB30D /* tests221-240.swift */; };
+		49606D8F28857044006CB30D /* 228.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49606D8E28857044006CB30D /* 228.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -187,6 +190,9 @@
 		49606D8328855B09006CB30D /* 205.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 205.swift; sourceTree = "<group>"; };
 		49606D8528855F93006CB30D /* 206.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 206.swift; sourceTree = "<group>"; };
 		49606D872885645C006CB30D /* 219.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 219.swift; sourceTree = "<group>"; };
+		49606D89288566E7006CB30D /* 225.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 225.swift; sourceTree = "<group>"; };
+		49606D8C28856975006CB30D /* tests221-240.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "tests221-240.swift"; sourceTree = "<group>"; };
+		49606D8E28857044006CB30D /* 228.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 228.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -249,6 +255,7 @@
 			children = (
 				49606D5D288502C8006CB30D /* 001-100 */,
 				49606D61288502C8006CB30D /* 101-200 */,
+				49606D8B2885695D006CB30D /* 201-300 */,
 				49606D58288502C8006CB30D /* 501-600 */,
 				49606D5A288502C8006CB30D /* 701-800 */,
 				49606CBB2885026D006CB30D /* leetcodes_swiftTests.swift */,
@@ -502,7 +509,9 @@
 		49606D1528850295006CB30D /* 221-240 */ = {
 			isa = PBXGroup;
 			children = (
+				49606D89288566E7006CB30D /* 225.swift */,
 				49606D1728850295006CB30D /* 226.swift */,
+				49606D8E28857044006CB30D /* 228.swift */,
 				49606D1628850295006CB30D /* 235.swift */,
 			);
 			path = "221-240";
@@ -560,6 +569,14 @@
 				49606D7F288546D9006CB30D /* 191.swift */,
 			);
 			path = "181-200";
+			sourceTree = "<group>";
+		};
+		49606D8B2885695D006CB30D /* 201-300 */ = {
+			isa = PBXGroup;
+			children = (
+				49606D8C28856975006CB30D /* tests221-240.swift */,
+			);
+			path = "201-300";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -702,6 +719,7 @@
 				49606D8228854C4F006CB30D /* 203.swift in Sources */,
 				49606D2928850295006CB30D /* 53.swift in Sources */,
 				49606D4F28850295006CB30D /* 558.swift in Sources */,
+				49606D8A288566E7006CB30D /* 225.swift in Sources */,
 				49606D3A28850295006CB30D /* 144.swift in Sources */,
 				49606D2528850295006CB30D /* 52.swift in Sources */,
 				49606D3D28850295006CB30D /* 110.swift in Sources */,
@@ -711,6 +729,7 @@
 				49606D2028850295006CB30D /* 1.swift in Sources */,
 				49606D3128850295006CB30D /* 36.swift in Sources */,
 				49606D3528850295006CB30D /* 100.swift in Sources */,
+				49606D8F28857044006CB30D /* 228.swift in Sources */,
 				49606D2728850295006CB30D /* 48.swift in Sources */,
 				49606D4D28850295006CB30D /* 745.swift in Sources */,
 				49606D2828850295006CB30D /* 51.swift in Sources */,
@@ -753,6 +772,7 @@
 				49606D66288502C8006CB30D /* tests731_740.swift in Sources */,
 				49606CBC2885026D006CB30D /* leetcodes_swiftTests.swift in Sources */,
 				49606D67288502C8006CB30D /* tests041_060.swift in Sources */,
+				49606D8D28856975006CB30D /* tests221-240.swift in Sources */,
 				49606D6B288502C8006CB30D /* tests101_120.swift in Sources */,
 				49606D69288502C8006CB30D /* tests021_040.swift in Sources */,
 				49606D75288536CE006CB30D /* tests001-020.swift in Sources */,

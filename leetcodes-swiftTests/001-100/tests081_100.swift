@@ -8,7 +8,7 @@
 import XCTest
 @testable import leetcodes_swift
 
-final class tests81_100: XCTestCase {
+final class tests081_100: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
