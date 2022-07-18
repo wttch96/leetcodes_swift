@@ -11,6 +11,10 @@ import XCTest
 
 final class tests021_040 : XCTestCase {
     
+    func test022() throws {
+        Solution22.test()
+    }
+    
     func test031() throws {
         Solution30.test()
     }

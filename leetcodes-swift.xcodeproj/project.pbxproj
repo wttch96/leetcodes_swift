@@ -83,6 +83,7 @@
 		49606D7128852FC8006CB30D /* 16.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49606D7028852FC8006CB30D /* 16.swift */; };
 		49606D7328853505006CB30D /* 18.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49606D7228853505006CB30D /* 18.swift */; };
 		49606D75288536CE006CB30D /* tests001-020.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49606D74288536CE006CB30D /* tests001-020.swift */; };
+		49606D77288538D0006CB30D /* 22.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49606D76288538D0006CB30D /* 22.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -173,6 +174,7 @@
 		49606D7028852FC8006CB30D /* 16.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 16.swift; sourceTree = "<group>"; };
 		49606D7228853505006CB30D /* 18.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 18.swift; sourceTree = "<group>"; };
 		49606D74288536CE006CB30D /* tests001-020.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "tests001-020.swift"; sourceTree = "<group>"; };
+		49606D76288538D0006CB30D /* 22.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 22.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -327,6 +329,7 @@
 		49606CDE28850295006CB30D /* 21-40 */ = {
 			isa = PBXGroup;
 			children = (
+				49606D76288538D0006CB30D /* 22.swift */,
 				49606CE128850295006CB30D /* 24.swift */,
 				49606CE028850295006CB30D /* 25.swift */,
 				49606CE228850295006CB30D /* 26.swift */,
@@ -650,6 +653,7 @@
 				49606CB12885026C006CB30D /* leetcodes_swift.docc in Sources */,
 				49606D1F28850295006CB30D /* 70.swift in Sources */,
 				49606D3E28850295006CB30D /* 108.swift in Sources */,
+				49606D77288538D0006CB30D /* 22.swift in Sources */,
 				49606D3F28850295006CB30D /* 111.swift in Sources */,
 				49606D7128852FC8006CB30D /* 16.swift in Sources */,
 				49606D2A28850295006CB30D /* 27.swift in Sources */,

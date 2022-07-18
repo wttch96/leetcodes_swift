@@ -4,10 +4,6 @@
 * [30. 串联所有单词的子串](https://leetcode.cn/problems/substring-with-concatenation-of-all-words/) ---代码:[【解】](./leetcodes-swift/001-100/21-40/30.swift)
 * [剑指 Offer II 041. 滑动窗口的平均值](https://leetcode.cn/problems/qIsx9U/) ---代码:[【解】](./leetcodes-swift/offer_ii/offer_ii_041.swift) ![](https://shields.io/badge/-易-green) 
 
-## 递归
-* [104. 二叉树的最大深度](https://leetcode.cn/problems/maximum-depth-of-binary-tree/) ---代码:[【解】](./leetcodes-swift/101-200/101-120/104.swift)
-* [112. 路径总和](https://leetcode.cn/problems/path-sum/) ---代码:[【解】](./leetcodes-swift/101-200/101-120/112.swift)
-
 ## 分治
 * [108. 将有序数组转换为二叉搜索树](https://leetcode.cn/problems/convert-sorted-array-to-binary-search-tree/) ---代码:[【解】](./leetcodes-swift/101-200/101-120/108.swift)
 * [558. 四叉树交集](https://leetcode.cn/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/) ---代码:[【解】](./leetcodes-swift/501-600/541-560/558.swift)
@@ -45,6 +41,7 @@
 
 * [102. 二叉树的层序遍历](https://leetcode.cn/problems/binary-tree-level-order-traversal/) ---代码:[【解】](./leetcodes-swift/101-200/101-120/102.swift) ![](https://shields.io/badge/-中-orange) 
 * [103. 二叉树的锯齿形层序遍历](https://leetcode.cn/problems/binary-tree-level-order-traversal/) ---代码:[【解】](./leetcodes-swift/101-200/101-120/102.swift) ![](https://shields.io/badge/-中-orange) 
+* [104. 二叉树的最大深度](https://leetcode.cn/problems/maximum-depth-of-binary-tree/) ---代码:[【解】](./leetcodes-swift/101-200/101-120/104.swift)
 * [110. 平衡二叉树](https://leetcode.cn/problems/balanced-binary-tree/) ---代码:[【解】](./leetcodes-swift/101-200/101-120/110.swift)
 * [111. 二叉树的最小深度](https://leetcode.cn/problems/minimum-depth-of-binary-tree/) ---代码:[【解】](./leetcodes-swift/101-200/101-120/111.swift)
 * [144. 二叉树的前序遍历](https://leetcode.cn/problems/binary-tree-preorder-traversal/) ---代码:[【解】](./leetcodes-swift/101-200/141-160/144.swift)
@@ -56,7 +53,9 @@
 ## 字典树
 * [745. 前缀和后缀搜索](https://leetcode.cn/problems/prefix-and-suffix-search/) ---代码:[【解】](./leetcodes-swift/701-800/741-760/745.swift)
 
+
 ## 回溯
+* [22. 括号生成](https://leetcode.cn/problems/generate-parentheses/) ---代码:[【解】](./leetcodes-swift/001-100/21-40/22.swift) ![](https://shields.io/badge/-中-orange) 
 * [51. N 皇后](https://leetcode.cn/problems/n-queens/) ---代码:[【解】](./leetcodes-swift/001-100/41-60/51.swift)
 * [51. N 皇后II](https://leetcode.cn/problems/n-queens-ii/) ---代码:[【解】](./leetcodes-swift/001-100/41-60/52.swift)
 * [37. 解数独](https://leetcode.cn/problems/sudoku-solver/) ---代码:[【解】](./leetcodes-swift/001-100/21-40/37.swift) ![](https://shields.io/badge/-难-red) 
@@ -67,6 +66,7 @@
 ## 矩阵
 * [48. 旋转图像](https://leetcode.cn/problems/rotate-image/) ---代码:[【解】](./leetcodes-swift/001-100/41-60/48.swift) ![](https://shields.io/badge/-中-orange) 
 
-## 深度优先遍历
+## 深度(广度)优先遍历
+* [112. 路径总和](https://leetcode.cn/problems/path-sum/) ---代码:[【解】](./leetcodes-swift/101-200/101-120/112.swift)
 * [565. 数组嵌套](https://leetcode.cn/problems/array-nesting/) ---代码:[【解】](./leetcodes-swift/501-600/561-580/565.swift) ![](https://shields.io/badge/-中-orange) 
 * [749. 隔离病毒](https://leetcode.cn/problems/contain-virus/) ---代码:[【解】](./leetcodes-swift/701-800/741-760/749.swift) ![](https://shields.io/badge/-难-red) 
