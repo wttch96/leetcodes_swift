@@ -27,6 +27,7 @@
 
 ## 位运算
 * [136. 只出现一次的数字](https://leetcode.cn/problems/single-number/) ---代码:[【解】](./leetcodes-swift/101-200/121-140/136.swift)
+* [190. 颠倒二进制位](https://leetcode.cn/problems/reverse-bits/) ---代码:[【解】](./leetcodes-swift/101-200/181-200/190.swift) ![](https://shields.io/badge/-易-green) 
 
 ## 数学
 * [168. Excel表列名称](https://leetcode.cn/problems/excel-sheet-column-title/) ---代码:[【解】](./leetcodes-swift/101-200/161-180/168.swift) ![](https://shields.io/badge/-易-green) 
