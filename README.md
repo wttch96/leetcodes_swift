@@ -65,3 +65,4 @@
 
 ## 深度优先遍历
 * [565. 数组嵌套](https://leetcode.cn/problems/array-nesting/) ---代码:[【解】](./leetcodes-swift/501-600/561-580/565.swift) ![](https://shields.io/badge/-中-orange) 
+* [749. 隔离病毒](https://leetcode.cn/problems/contain-virus/) ---代码:[【解】](./leetcodes-swift/701-800/741-760/749.swift) ![](https://shields.io/badge/-难-red) 
