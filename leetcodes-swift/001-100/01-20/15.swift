@@ -24,7 +24,7 @@ class Solution15 {
             }
             
             // 去重
-            if i > 0 && num_i == nums[i + 1] {
+            if i > 0 && num_i == nums[i - 1] {
                 continue
             }
             

@@ -81,6 +81,8 @@
 		49606D6D2885032E006CB30D /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 49606D6C2885032E006CB30D /* README.md */; };
 		49606D6F28852B78006CB30D /* 15.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49606D6E28852B78006CB30D /* 15.swift */; };
 		49606D7128852FC8006CB30D /* 16.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49606D7028852FC8006CB30D /* 16.swift */; };
+		49606D7328853505006CB30D /* 18.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49606D7228853505006CB30D /* 18.swift */; };
+		49606D75288536CE006CB30D /* tests001-020.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49606D74288536CE006CB30D /* tests001-020.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -169,6 +171,8 @@
 		49606D6C2885032E006CB30D /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		49606D6E28852B78006CB30D /* 15.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 15.swift; sourceTree = "<group>"; };
 		49606D7028852FC8006CB30D /* 16.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 16.swift; sourceTree = "<group>"; };
+		49606D7228853505006CB30D /* 18.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 18.swift; sourceTree = "<group>"; };
+		49606D74288536CE006CB30D /* tests001-020.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "tests001-020.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -299,6 +303,7 @@
 				49606CD328850295006CB30D /* 1.swift */,
 				49606D6E28852B78006CB30D /* 15.swift */,
 				49606D7028852FC8006CB30D /* 16.swift */,
+				49606D7228853505006CB30D /* 18.swift */,
 				49606CD428850295006CB30D /* 20.swift */,
 			);
 			path = "01-20";
@@ -511,9 +516,10 @@
 		49606D5D288502C8006CB30D /* 001-100 */ = {
 			isa = PBXGroup;
 			children = (
+				49606D74288536CE006CB30D /* tests001-020.swift */,
+				49606D60288502C8006CB30D /* tests021_040.swift */,
 				49606D5E288502C8006CB30D /* tests041_060.swift */,
 				49606D5F288502C8006CB30D /* tests081_100.swift */,
-				49606D60288502C8006CB30D /* tests021_040.swift */,
 			);
 			path = "001-100";
 			sourceTree = "<group>";
@@ -657,6 +663,7 @@
 				49606D2D28850295006CB30D /* 26.swift in Sources */,
 				49606D5228850295006CB30D /* 235.swift in Sources */,
 				49606D3428850295006CB30D /* 94.swift in Sources */,
+				49606D7328853505006CB30D /* 18.swift in Sources */,
 				49606D6F28852B78006CB30D /* 15.swift in Sources */,
 				49606D1B28850295006CB30D /* 676.swift in Sources */,
 				49606D2928850295006CB30D /* 53.swift in Sources */,
@@ -712,6 +719,7 @@
 				49606D67288502C8006CB30D /* tests041_060.swift in Sources */,
 				49606D6B288502C8006CB30D /* tests101_120.swift in Sources */,
 				49606D69288502C8006CB30D /* tests021_040.swift in Sources */,
+				49606D75288536CE006CB30D /* tests001-020.swift in Sources */,
 				49606D65288502C8006CB30D /* tests741-760.swift in Sources */,
 				49606D6A288502C8006CB30D /* tests121-140.swift in Sources */,
 				49606D68288502C8006CB30D /* tests081_100.swift in Sources */,
