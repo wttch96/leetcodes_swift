@@ -80,6 +80,7 @@
 		49606D6B288502C8006CB30D /* tests101_120.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49606D63288502C8006CB30D /* tests101_120.swift */; };
 		49606D6D2885032E006CB30D /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 49606D6C2885032E006CB30D /* README.md */; };
 		49606D6F28852B78006CB30D /* 15.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49606D6E28852B78006CB30D /* 15.swift */; };
+		49606D7128852FC8006CB30D /* 16.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49606D7028852FC8006CB30D /* 16.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -167,6 +168,7 @@
 		49606D63288502C8006CB30D /* tests101_120.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = tests101_120.swift; sourceTree = "<group>"; };
 		49606D6C2885032E006CB30D /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		49606D6E28852B78006CB30D /* 15.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 15.swift; sourceTree = "<group>"; };
+		49606D7028852FC8006CB30D /* 16.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 16.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -296,6 +298,7 @@
 			children = (
 				49606CD328850295006CB30D /* 1.swift */,
 				49606D6E28852B78006CB30D /* 15.swift */,
+				49606D7028852FC8006CB30D /* 16.swift */,
 				49606CD428850295006CB30D /* 20.swift */,
 			);
 			path = "01-20";
@@ -642,6 +645,7 @@
 				49606D1F28850295006CB30D /* 70.swift in Sources */,
 				49606D3E28850295006CB30D /* 108.swift in Sources */,
 				49606D3F28850295006CB30D /* 111.swift in Sources */,
+				49606D7128852FC8006CB30D /* 16.swift in Sources */,
 				49606D2A28850295006CB30D /* 27.swift in Sources */,
 				49606D3C28850295006CB30D /* 112.swift in Sources */,
 				49606D2128850295006CB30D /* 20.swift in Sources */,
