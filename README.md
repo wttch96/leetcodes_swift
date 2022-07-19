@@ -1,6 +1,6 @@
 > 刷刷leetcode，练练swift语法
 
-# 数学 
+# 一、数学 
 
 ## 数学
 * [168. Excel表列名称](https://leetcode.cn/problems/excel-sheet-column-title/) ---代码:[【解】](./leetcodes-swift/101-200/161-180/168.swift) ![](https://shields.io/badge/-易-green) 
@@ -15,7 +15,7 @@
 * [191. 位1的个数](https://leetcode.cn/problems/number-of-1-bits/) ---代码:[【解】](./leetcodes-swift/101-200/181-200/191.swift) ![](https://shields.io/badge/-易-green) 
 
 
-# 数据结构
+# 二、数据结构
 
 ## 简单链表
 * [203. 移除链表元素](https://leetcode.cn/problems/remove-linked-list-elements/) ---代码:[【解】](./leetcodes-swift/201-300/201-220/203.swift) ![](https://shields.io/badge/-易-green) 
@@ -44,7 +44,7 @@
 * [745. 前缀和后缀搜索](https://leetcode.cn/problems/prefix-and-suffix-search/) ---代码:[【解】](./leetcodes-swift/701-800/741-760/745.swift)
 
 
-# 算法
+# 三、算法
 
 ## 滑动窗口
 * [30. 串联所有单词的子串](https://leetcode.cn/problems/substring-with-concatenation-of-all-words/) ---代码:[【解】](./leetcodes-swift/001-100/21-40/30.swift)
