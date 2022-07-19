@@ -97,6 +97,7 @@
 		49606D93288646FD006CB30D /* 731.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49606D92288646FD006CB30D /* 731.swift */; };
 		49606D9528868425006CB30D /* 29.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49606D9428868425006CB30D /* 29.swift */; };
 		49606D9728868DDA006CB30D /* 34.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49606D9628868DDA006CB30D /* 34.swift */; };
+		49606D9A28869C7E006CB30D /* 704.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49606D9928869C7E006CB30D /* 704.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -201,6 +202,7 @@
 		49606D92288646FD006CB30D /* 731.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 731.swift; sourceTree = "<group>"; };
 		49606D9428868425006CB30D /* 29.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 29.swift; sourceTree = "<group>"; };
 		49606D9628868DDA006CB30D /* 34.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 34.swift; sourceTree = "<group>"; };
+		49606D9928869C7E006CB30D /* 704.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 704.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -447,6 +449,7 @@
 		49606D0728850295006CB30D /* 701-800 */ = {
 			isa = PBXGroup;
 			children = (
+				49606D9828869C74006CB30D /* 701-720 */,
 				49606D0828850295006CB30D /* 731-740 */,
 				49606D0A28850295006CB30D /* 741-760 */,
 			);
@@ -589,6 +592,14 @@
 				49606D8C28856975006CB30D /* tests221-240.swift */,
 			);
 			path = "201-300";
+			sourceTree = "<group>";
+		};
+		49606D9828869C74006CB30D /* 701-720 */ = {
+			isa = PBXGroup;
+			children = (
+				49606D9928869C7E006CB30D /* 704.swift */,
+			);
+			path = "701-720";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -745,6 +756,7 @@
 				49606D3528850295006CB30D /* 100.swift in Sources */,
 				49606D8F28857044006CB30D /* 228.swift in Sources */,
 				49606D2728850295006CB30D /* 48.swift in Sources */,
+				49606D9A28869C7E006CB30D /* 704.swift in Sources */,
 				49606D4D28850295006CB30D /* 745.swift in Sources */,
 				49606D2828850295006CB30D /* 51.swift in Sources */,
 				49606D882885645C006CB30D /* 219.swift in Sources */,

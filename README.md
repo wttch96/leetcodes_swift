@@ -96,3 +96,4 @@
 
 ## 二分查找
 * [34. 在排序数组中查找元素的第一个和最后一个位置](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/) ---代码:[【解】](./leetcodes-swift/001-100/21-40/34.swift) ![](https://shields.io/badge/-中-orange) 
+* [704. 二分查找](https://leetcode.cn/problems/binary-search/) ---代码:[【解】](./leetcodes-swift/701-800/701-720/704.swift) ![](https://shields.io/badge/-易-green) 
