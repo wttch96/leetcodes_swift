@@ -23,6 +23,10 @@ final class tests021_040 : XCTestCase {
         Solution30.test()
     }
     
+    func test032() throws {
+        Solution32.test()
+    }
+    
     func test034() throws {
         Solution34.test()
     }

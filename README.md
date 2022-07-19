@@ -23,6 +23,7 @@
 
 
 ## 栈
+* [32. 最长有效括号](https://leetcode.cn/problems/longest-valid-parentheses/) ---代码:[【解】](./leetcodes-swift/001-100/21-40/32.swift) ![](https://shields.io/badge/-难-red) 
 * [735. 行星碰撞](https://leetcode.cn/problems/asteroid-collision//)  ---代码:[【解】](./leetcodes-swift/701-800/731-740/735.swift)
 * [225. 用队列实现栈](https://leetcode.cn/problems/implement-stack-using-queues/) ---代码:[【解】](./leetcodes-swift/201-300/221-240/225.swift) ![](https://shields.io/badge/-易-green)
 * [232. 用栈实现队列](https://leetcode.cn/problems/implement-queue-using-stacks/) ---代码:[【解】](./leetcodes-swift/201-300/221-240/232.swift) ![](https://shields.io/badge/-易-green)
