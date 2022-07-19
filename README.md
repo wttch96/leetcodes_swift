@@ -28,6 +28,10 @@
 * [232. 用栈实现队列](https://leetcode.cn/problems/implement-queue-using-stacks/) ---代码:[【解】](./leetcodes-swift/201-300/221-240/232.swift) ![](https://shields.io/badge/-易-green)
 
 
+## 队列
+* [239. 滑动窗口最大值](https://leetcode.cn/problems/sliding-window-maximum/) ---代码:[【解】](./leetcodes-swift/201-300/221-240/239.swift) ![](https://shields.io/badge/-难-red) 
+
+
 ## 二叉树
 * [102. 二叉树的层序遍历](https://leetcode.cn/problems/binary-tree-level-order-traversal/) ---代码:[【解】](./leetcodes-swift/101-200/101-120/102.swift) ![](https://shields.io/badge/-中-orange) 
 * [103. 二叉树的锯齿形层序遍历](https://leetcode.cn/problems/binary-tree-level-order-traversal/) ---代码:[【解】](./leetcodes-swift/101-200/101-120/102.swift) ![](https://shields.io/badge/-中-orange) 
