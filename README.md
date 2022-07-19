@@ -1,4 +1,50 @@
-# 刷刷leetcode，练练swift语法
+> 刷刷leetcode，练练swift语法
+
+# 数学 
+
+## 数学
+* [168. Excel表列名称](https://leetcode.cn/problems/excel-sheet-column-title/) ---代码:[【解】](./leetcodes-swift/101-200/161-180/168.swift) ![](https://shields.io/badge/-易-green) 
+* [169. 多数元素](https://leetcode.cn/problems/majority-element/) ---代码:[【解】](./leetcodes-swift/101-200/161-180/169.swift) ![](https://shields.io/badge/-易-green) 
+* [171. Excel 表列序号](https://leetcode.cn/problems/excel-sheet-column-number/) ---代码:[【解】](./leetcodes-swift/101-200/161-180/171.swift) ![](https://shields.io/badge/-易-green) 
+
+
+## 位运算
+* [29. 两数相除](https://leetcode.cn/problems/divide-two-integers/) ---代码:[【解】](./leetcodes-swift/001-100/21-40/29.swift) ![](https://shields.io/badge/-中-orange) 
+* [136. 只出现一次的数字](https://leetcode.cn/problems/single-number/) ---代码:[【解】](./leetcodes-swift/101-200/121-140/136.swift)
+* [190. 颠倒二进制位](https://leetcode.cn/problems/reverse-bits/) ---代码:[【解】](./leetcodes-swift/101-200/181-200/190.swift) ![](https://shields.io/badge/-易-green) 
+* [191. 位1的个数](https://leetcode.cn/problems/number-of-1-bits/) ---代码:[【解】](./leetcodes-swift/101-200/181-200/191.swift) ![](https://shields.io/badge/-易-green) 
+
+
+# 数据结构
+
+## 简单链表
+* [203. 移除链表元素](https://leetcode.cn/problems/remove-linked-list-elements/) ---代码:[【解】](./leetcodes-swift/201-300/201-220/203.swift) ![](https://shields.io/badge/-易-green) 
+* [206. 反转链表](https://leetcode.cn/problems/reverse-linked-list/) ---代码:[【解】](./leetcodes-swift/201-300/201-220/206.swift) ![](https://shields.io/badge/-易-green) 
+
+
+## 栈
+* [735. 行星碰撞](https://leetcode.cn/problems/asteroid-collision//)  ---代码:[【解】](./leetcodes-swift/701-800/731-740/735.swift)
+* [225. 用队列实现栈](https://leetcode.cn/problems/implement-stack-using-queues/) ---代码:[【解】](./leetcodes-swift/201-300/221-240/225.swift) ![](https://shields.io/badge/-易-green)
+* [232. 用栈实现队列](https://leetcode.cn/problems/implement-queue-using-stacks/) ---代码:[【解】](./leetcodes-swift/201-300/221-240/232.swift) ![](https://shields.io/badge/-易-green)
+
+
+## 二叉树
+* [102. 二叉树的层序遍历](https://leetcode.cn/problems/binary-tree-level-order-traversal/) ---代码:[【解】](./leetcodes-swift/101-200/101-120/102.swift) ![](https://shields.io/badge/-中-orange) 
+* [103. 二叉树的锯齿形层序遍历](https://leetcode.cn/problems/binary-tree-level-order-traversal/) ---代码:[【解】](./leetcodes-swift/101-200/101-120/102.swift) ![](https://shields.io/badge/-中-orange) 
+* [104. 二叉树的最大深度](https://leetcode.cn/problems/maximum-depth-of-binary-tree/) ---代码:[【解】](./leetcodes-swift/101-200/101-120/104.swift)
+* [110. 平衡二叉树](https://leetcode.cn/problems/balanced-binary-tree/) ---代码:[【解】](./leetcodes-swift/101-200/101-120/110.swift)
+* [111. 二叉树的最小深度](https://leetcode.cn/problems/minimum-depth-of-binary-tree/) ---代码:[【解】](./leetcodes-swift/101-200/101-120/111.swift)
+* [144. 二叉树的前序遍历](https://leetcode.cn/problems/binary-tree-preorder-traversal/) ---代码:[【解】](./leetcodes-swift/101-200/141-160/144.swift)
+* [145. 二叉树的后序遍历](https://leetcode.cn/problems/binary-tree-postorder-traversal/) ---代码:[【解】](./leetcodes-swift/101-200/141-160/145.swift)
+* [226. 翻转二叉树](https://leetcode.cn/problems/invert-binary-tree/) ---代码:[【解】](./leetcodes-swift/201-300/221-240/226.swift) ![](https://shields.io/badge/-易-green)
+* [235. 二叉搜索树的最近公共祖先](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-search-tree/) ---代码:[【解】](./leetcodes-swift/201-300/221-240/235.swift) ![](https://shields.io/badge/-易-green) 
+
+
+## 字典树
+* [745. 前缀和后缀搜索](https://leetcode.cn/problems/prefix-and-suffix-search/) ---代码:[【解】](./leetcodes-swift/701-800/741-760/745.swift)
+
+
+# 算法
 
 ## 滑动窗口
 * [30. 串联所有单词的子串](https://leetcode.cn/problems/substring-with-concatenation-of-all-words/) ---代码:[【解】](./leetcodes-swift/001-100/21-40/30.swift)
@@ -25,40 +71,6 @@
 * [202. 快乐数](https://leetcode.cn/problems/happy-number/) ---代码:[【解】](./leetcodes-swift/201-300/201-220/202.swift) ![](https://shields.io/badge/-易-green) 
 
 
-## 位运算
-* [29. 两数相除](https://leetcode.cn/problems/divide-two-integers/) ---代码:[【解】](./leetcodes-swift/001-100/21-40/29.swift) ![](https://shields.io/badge/-中-orange) 
-* [136. 只出现一次的数字](https://leetcode.cn/problems/single-number/) ---代码:[【解】](./leetcodes-swift/101-200/121-140/136.swift)
-* [190. 颠倒二进制位](https://leetcode.cn/problems/reverse-bits/) ---代码:[【解】](./leetcodes-swift/101-200/181-200/190.swift) ![](https://shields.io/badge/-易-green) 
-* [191. 位1的个数](https://leetcode.cn/problems/number-of-1-bits/) ---代码:[【解】](./leetcodes-swift/101-200/181-200/191.swift) ![](https://shields.io/badge/-易-green) 
-
-## 数学
-* [168. Excel表列名称](https://leetcode.cn/problems/excel-sheet-column-title/) ---代码:[【解】](./leetcodes-swift/101-200/161-180/168.swift) ![](https://shields.io/badge/-易-green) 
-* [169. 多数元素](https://leetcode.cn/problems/majority-element/) ---代码:[【解】](./leetcodes-swift/101-200/161-180/169.swift) ![](https://shields.io/badge/-易-green) 
-* [171. Excel 表列序号](https://leetcode.cn/problems/excel-sheet-column-number/) ---代码:[【解】](./leetcodes-swift/101-200/161-180/171.swift) ![](https://shields.io/badge/-易-green) 
-
-
-## 栈
-* [735. 行星碰撞](https://leetcode.cn/problems/asteroid-collision//)  ---代码:[【解】](./leetcodes-swift/701-800/731-740/735.swift)
-* [225. 用队列实现栈](https://leetcode.cn/problems/implement-stack-using-queues/) ---代码:[【解】](./leetcodes-swift/201-300/221-240/225.swift) ![](https://shields.io/badge/-易-green)
-* [232. 用栈实现队列](https://leetcode.cn/problems/implement-queue-using-stacks/) ---代码:[【解】](./leetcodes-swift/201-300/221-240/232.swift) ![](https://shields.io/badge/-易-green)
-
-
-## 二叉树
-* [102. 二叉树的层序遍历](https://leetcode.cn/problems/binary-tree-level-order-traversal/) ---代码:[【解】](./leetcodes-swift/101-200/101-120/102.swift) ![](https://shields.io/badge/-中-orange) 
-* [103. 二叉树的锯齿形层序遍历](https://leetcode.cn/problems/binary-tree-level-order-traversal/) ---代码:[【解】](./leetcodes-swift/101-200/101-120/102.swift) ![](https://shields.io/badge/-中-orange) 
-* [104. 二叉树的最大深度](https://leetcode.cn/problems/maximum-depth-of-binary-tree/) ---代码:[【解】](./leetcodes-swift/101-200/101-120/104.swift)
-* [110. 平衡二叉树](https://leetcode.cn/problems/balanced-binary-tree/) ---代码:[【解】](./leetcodes-swift/101-200/101-120/110.swift)
-* [111. 二叉树的最小深度](https://leetcode.cn/problems/minimum-depth-of-binary-tree/) ---代码:[【解】](./leetcodes-swift/101-200/101-120/111.swift)
-* [144. 二叉树的前序遍历](https://leetcode.cn/problems/binary-tree-preorder-traversal/) ---代码:[【解】](./leetcodes-swift/101-200/141-160/144.swift)
-* [145. 二叉树的后序遍历](https://leetcode.cn/problems/binary-tree-postorder-traversal/) ---代码:[【解】](./leetcodes-swift/101-200/141-160/145.swift)
-* [226. 翻转二叉树](https://leetcode.cn/problems/invert-binary-tree/) ---代码:[【解】](./leetcodes-swift/201-300/221-240/226.swift) ![](https://shields.io/badge/-易-green)
-* [235. 二叉搜索树的最近公共祖先](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-search-tree/) ---代码:[【解】](./leetcodes-swift/201-300/221-240/235.swift) ![](https://shields.io/badge/-易-green) 
-
-
-## 字典树
-* [745. 前缀和后缀搜索](https://leetcode.cn/problems/prefix-and-suffix-search/) ---代码:[【解】](./leetcodes-swift/701-800/741-760/745.swift)
-
-
 ## 回溯
 * [22. 括号生成](https://leetcode.cn/problems/generate-parentheses/) ---代码:[【解】](./leetcodes-swift/001-100/21-40/22.swift) ![](https://shields.io/badge/-中-orange) 
 * [51. N 皇后](https://leetcode.cn/problems/n-queens/) ---代码:[【解】](./leetcodes-swift/001-100/41-60/51.swift)
@@ -72,11 +84,6 @@
 * [219. 存在重复元素 II](https://leetcode.cn/problems/contains-duplicate-ii/) ---代码:[【解】](./leetcodes-swift/201-300/201-220/219.swift) ![](https://shields.io/badge/-易-green) 
 
 
-## 简单链表
-* [203. 移除链表元素](https://leetcode.cn/problems/remove-linked-list-elements/) ---代码:[【解】](./leetcodes-swift/201-300/201-220/203.swift) ![](https://shields.io/badge/-易-green) 
-* [206. 反转链表](https://leetcode.cn/problems/reverse-linked-list/) ---代码:[【解】](./leetcodes-swift/201-300/201-220/206.swift) ![](https://shields.io/badge/-易-green) 
-
-
 ## 矩阵
 * [48. 旋转图像](https://leetcode.cn/problems/rotate-image/) ---代码:[【解】](./leetcodes-swift/001-100/41-60/48.swift) ![](https://shields.io/badge/-中-orange) 
 
@@ -85,3 +92,7 @@
 * [112. 路径总和](https://leetcode.cn/problems/path-sum/) ---代码:[【解】](./leetcodes-swift/101-200/101-120/112.swift)
 * [565. 数组嵌套](https://leetcode.cn/problems/array-nesting/) ---代码:[【解】](./leetcodes-swift/501-600/561-580/565.swift) ![](https://shields.io/badge/-中-orange) 
 * [749. 隔离病毒](https://leetcode.cn/problems/contain-virus/) ---代码:[【解】](./leetcodes-swift/701-800/741-760/749.swift) ![](https://shields.io/badge/-难-red) 
+
+
+## 二分查找
+* [34. 在排序数组中查找元素的第一个和最后一个位置](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/) ---代码:[【解】](./leetcodes-swift/001-100/21-40/34.swift) ![](https://shields.io/badge/-中-orange) 
