@@ -22,6 +22,10 @@
 * [206. 反转链表](https://leetcode.cn/problems/reverse-linked-list/) ---代码:[【解】](./leetcodes-swift/201-300/201-220/206.swift) ![](https://shields.io/badge/-易-green) 
 
 
+## 数组
+* [31. 下一个排列](https://leetcode.cn/problems/next-permutation/) ---代码:[【解】](./leetcodes-swift/001-100/21-40/31.swift) ![](https://shields.io/badge/-中-orange) 
+
+
 ## 栈
 * [32. 最长有效括号](https://leetcode.cn/problems/longest-valid-parentheses/) ---代码:[【解】](./leetcodes-swift/001-100/21-40/32.swift) ![](https://shields.io/badge/-难-red) 
 * [735. 行星碰撞](https://leetcode.cn/problems/asteroid-collision//)  ---代码:[【解】](./leetcodes-swift/701-800/731-740/735.swift)

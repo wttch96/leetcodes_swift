@@ -27,12 +27,12 @@ fileprivate class Solution25 {
             cur = cur?.next
         }
         // 分组
-        var count = size / k
+        let count = size / k
         var pre: ListNode? = dummy
         cur = head
-        for i in 0..<count {
-            for j in 0..<k-1 {
-                var next = cur?.next
+        for _ in 0..<count {
+            for _ in 0..<k-1 {
+                let next = cur?.next
                 cur!.next = next?.next
                 next!.next = pre?.next
                 pre!.next = next
