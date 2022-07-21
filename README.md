@@ -51,6 +51,7 @@
 * [145. 二叉树的后序遍历](https://leetcode.cn/problems/binary-tree-postorder-traversal/) ---代码:[【解】](./leetcodes-swift/101-200/141-160/145.swift)
 * [226. 翻转二叉树](https://leetcode.cn/problems/invert-binary-tree/) ---代码:[【解】](./leetcodes-swift/201-300/221-240/226.swift) ![](https://shields.io/badge/-易-green)
 * [235. 二叉搜索树的最近公共祖先](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-search-tree/) ---代码:[【解】](./leetcodes-swift/201-300/221-240/235.swift) ![](https://shields.io/badge/-易-green) 
+* [814. 二叉树剪枝](https://leetcode.cn/problems/binary-tree-pruning/) ---代码:[【解】](./leetcodes-swift/801-900/801-820/814.swift) ![](https://shields.io/badge/-中-orange) 
 
 
 ## 字典树
