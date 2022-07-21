@@ -3,6 +3,7 @@
 # 一、数学 
 
 ## 数学
+* [43. 字符串相乘](https://leetcode.cn/problems/multiply-strings/) ---代码:[【解】](./leetcodes-swift/001-100/41-60/43.swift) ![](https://shields.io/badge/-中-orange) 
 * [168. Excel表列名称](https://leetcode.cn/problems/excel-sheet-column-title/) ---代码:[【解】](./leetcodes-swift/101-200/161-180/168.swift) ![](https://shields.io/badge/-易-green) 
 * [169. 多数元素](https://leetcode.cn/problems/majority-element/) ---代码:[【解】](./leetcodes-swift/101-200/161-180/169.swift) ![](https://shields.io/badge/-易-green) 
 * [171. Excel 表列序号](https://leetcode.cn/problems/excel-sheet-column-number/) ---代码:[【解】](./leetcodes-swift/101-200/161-180/171.swift) ![](https://shields.io/badge/-易-green) 
