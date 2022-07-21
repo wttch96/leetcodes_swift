@@ -92,6 +92,7 @@
 * [51. N 皇后II](https://leetcode.cn/problems/n-queens-ii/) ---代码:[【解】](./leetcodes-swift/001-100/41-60/52.swift)
 * [37. 解数独](https://leetcode.cn/problems/sudoku-solver/) ---代码:[【解】](./leetcodes-swift/001-100/21-40/37.swift) ![](https://shields.io/badge/-难-red) 
 * [39. 组合总和](https://leetcode.cn/problems/combination-sum/) ---代码:[【解】](./leetcodes-swift/001-100/21-40/39.swift) ![](https://shields.io/badge/-中-orange) 
+* [40. 组合总和 II](https://leetcode.cn/problems/combination-sum-ii/) ---代码:[【解】](./leetcodes-swift/001-100/21-40/40.swift) ![](https://shields.io/badge/-中-orange) 
 
 
 ## 哈希

@@ -38,4 +38,8 @@ final class tests021_040 : XCTestCase {
     func test039() throws {
         Solution39.test()
     }
+    
+    func test040() throws {
+        Solution40.test()
+    }
 }
