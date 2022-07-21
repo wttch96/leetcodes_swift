@@ -104,6 +104,7 @@
 		49606DA42887A561006CB30D /* 1260.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49606DA32887A561006CB30D /* 1260.swift */; };
 		49606DA62887DCAF006CB30D /* 33.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49606DA52887DCAF006CB30D /* 33.swift */; };
 		49606DA82887EA49006CB30D /* 31.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49606DA72887EA49006CB30D /* 31.swift */; };
+		4962B12628881030006FE4EC /* 38.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4962B12528881030006FE4EC /* 38.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -215,6 +216,7 @@
 		49606DA32887A561006CB30D /* 1260.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1260.swift; sourceTree = "<group>"; };
 		49606DA52887DCAF006CB30D /* 33.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 33.swift; sourceTree = "<group>"; };
 		49606DA72887EA49006CB30D /* 31.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 31.swift; sourceTree = "<group>"; };
+		4962B12528881030006FE4EC /* 38.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 38.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -265,6 +267,7 @@
 				49606D0D28850295006CB30D /* 501-600 */,
 				49606CC928850295006CB30D /* 601-700 */,
 				49606D0728850295006CB30D /* 701-800 */,
+				4962B1272888E8CC006FE4EC /* 801-900 */,
 				49606CC628850295006CB30D /* 1201-1300 */,
 				49606D1828850295006CB30D /* offer_ii */,
 				49606CAF2885026C006CB30D /* leetcodes_swift.h */,
@@ -387,6 +390,7 @@
 				49606CE328850295006CB30D /* 35.swift */,
 				49606CE628850295006CB30D /* 36.swift */,
 				49606CE428850295006CB30D /* 37.swift */,
+				4962B12528881030006FE4EC /* 38.swift */,
 			);
 			path = "21-40";
 			sourceTree = "<group>";
@@ -636,6 +640,13 @@
 			path = "341-360";
 			sourceTree = "<group>";
 		};
+		4962B1272888E8CC006FE4EC /* 801-900 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "801-900";
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
@@ -783,6 +794,7 @@
 				49606D2528850295006CB30D /* 52.swift in Sources */,
 				49606D3D28850295006CB30D /* 110.swift in Sources */,
 				49606D2328850295006CB30D /* 47.swift in Sources */,
+				4962B12628881030006FE4EC /* 38.swift in Sources */,
 				49606D4128850295006CB30D /* 119.swift in Sources */,
 				49606D93288646FD006CB30D /* 731.swift in Sources */,
 				49606D4C28850295006CB30D /* 735.swift in Sources */,
