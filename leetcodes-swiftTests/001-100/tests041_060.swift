@@ -10,6 +10,10 @@ import XCTest
 @testable import leetcodes_swift
 
 final class tests041_060 : XCTestCase {
+
+    func test041() throws {
+        Solution41.test()
+    }
     
     func test051() throws {
         Solution51.test()

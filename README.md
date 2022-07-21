@@ -97,6 +97,7 @@
 
 ## 哈希
 * [36. 有效的数独](https://leetcode.cn/problems/valid-sudoku/) ---代码:[【解】](./leetcodes-swift/001-100/21-40/36.swift) ![](https://shields.io/badge/-中-orange) 
+* [41. 缺失的第一个正数](https://leetcode.cn/problems/first-missing-positive/) ---代码:[【解】](./leetcodes-swift/001-100/41-60/41.swift) ![](https://shields.io/badge/-难-red) 
 * [205. 同构字符串](https://leetcode.cn/problems/isomorphic-strings/) ---代码:[【解】](./leetcodes-swift/201-300/201-220/205.swift) ![](https://shields.io/badge/-易-green) 
 * [219. 存在重复元素 II](https://leetcode.cn/problems/contains-duplicate-ii/) ---代码:[【解】](./leetcodes-swift/201-300/201-220/219.swift) ![](https://shields.io/badge/-易-green) 
 
