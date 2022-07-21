@@ -72,6 +72,7 @@
 * [118. 杨辉三角](https://leetcode.cn/problems/pascals-triangle/) ---代码:[【解】](./leetcodes-swift/101-200/101-120/118.swift) (算最简单的动态规划?) 
 * [119. 杨辉三角II](https://leetcode.cn/problems/pascals-triangle-ii/) ---代码:[【解】](./leetcodes-swift/101-200/101-120/119.swift)
 * [121. 买卖股票的最佳时机](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/) ---代码:[【解】](./leetcodes-swift/101-200/121-140/121.swift)
+* [873. 最长的斐波那契子序列的长度](https://leetcode.cn/problems/length-of-longest-fibonacci-subsequence/) ---代码:[【解】](./leetcodes-swift/801-900/861-880/873.swift) ![](https://shields.io/badge/-中-orange)
 
 
 ## 双指针
