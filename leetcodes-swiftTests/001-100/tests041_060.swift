@@ -10,7 +10,7 @@ import XCTest
 @testable import leetcodes_swift
 
 final class tests041_060 : XCTestCase {
-
+    
     func test041() throws {
         Solution41.test()
     }
@@ -29,5 +29,9 @@ final class tests041_060 : XCTestCase {
     
     func test052() throws {
         Solution52.test()
+    }
+    
+    func test054() throws {
+        Solution54.test()
     }
 }
