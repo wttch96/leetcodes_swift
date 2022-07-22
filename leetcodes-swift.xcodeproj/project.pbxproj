@@ -122,6 +122,8 @@
 		49646496288A67BC00EBFAD7 /* 44.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49646495288A67BC00EBFAD7 /* 44.swift */; };
 		49646498288A7E1E00EBFAD7 /* 59.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49646497288A7E1E00EBFAD7 /* 59.swift */; };
 		49AAD4E4288A86460002EDBB /* 60.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49AAD4E3288A86460002EDBB /* 60.swift */; };
+		49AAD4E6288A9F500002EDBB /* 62.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49AAD4E5288A9F500002EDBB /* 62.swift */; };
+		49AAD4E8288AA3FC0002EDBB /* tests061_080.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49AAD4E7288AA3FC0002EDBB /* tests061_080.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -251,6 +253,8 @@
 		49646495288A67BC00EBFAD7 /* 44.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 44.swift; sourceTree = "<group>"; };
 		49646497288A7E1E00EBFAD7 /* 59.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 59.swift; sourceTree = "<group>"; };
 		49AAD4E3288A86460002EDBB /* 60.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 60.swift; sourceTree = "<group>"; };
+		49AAD4E5288A9F500002EDBB /* 62.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 62.swift; sourceTree = "<group>"; };
+		49AAD4E7288AA3FC0002EDBB /* tests061_080.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tests061_080.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -372,6 +376,7 @@
 		49606CCD28850295006CB30D /* 61-80 */ = {
 			isa = PBXGroup;
 			children = (
+				49AAD4E5288A9F500002EDBB /* 62.swift */,
 				49606CCE28850295006CB30D /* 66.swift */,
 				49606CCF28850295006CB30D /* 67.swift */,
 				49606CD028850295006CB30D /* 69.swift */,
@@ -634,6 +639,7 @@
 				49606D74288536CE006CB30D /* tests001-020.swift */,
 				49606D60288502C8006CB30D /* tests021_040.swift */,
 				49606D5E288502C8006CB30D /* tests041_060.swift */,
+				49AAD4E7288AA3FC0002EDBB /* tests061_080.swift */,
 				49606D5F288502C8006CB30D /* tests081_100.swift */,
 			);
 			path = "001-100";
@@ -858,6 +864,7 @@
 				496464842889266100EBFAD7 /* 41.swift in Sources */,
 				49606D2228850295006CB30D /* 46.swift in Sources */,
 				49606D4728850295006CB30D /* 121.swift in Sources */,
+				49AAD4E6288A9F500002EDBB /* 62.swift in Sources */,
 				49606D2D28850295006CB30D /* 26.swift in Sources */,
 				49606D5228850295006CB30D /* 235.swift in Sources */,
 				49606D3428850295006CB30D /* 94.swift in Sources */,
@@ -943,6 +950,7 @@
 				49606D66288502C8006CB30D /* tests731_740.swift in Sources */,
 				49606CBC2885026D006CB30D /* leetcodes_swiftTests.swift in Sources */,
 				49606D67288502C8006CB30D /* tests041_060.swift in Sources */,
+				49AAD4E8288AA3FC0002EDBB /* tests061_080.swift in Sources */,
 				49606D8D28856975006CB30D /* tests221-240.swift in Sources */,
 				49606D6B288502C8006CB30D /* tests101_120.swift in Sources */,
 				49606D69288502C8006CB30D /* tests021_040.swift in Sources */,

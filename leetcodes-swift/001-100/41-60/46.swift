@@ -35,7 +35,7 @@ public class Solution46 {
                 
                 dfs(&path, nums, &result, &used)
                 
-                path.popLast()
+                path.removeLast()
                 used[i] = false
             }
         }

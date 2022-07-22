@@ -16,7 +16,7 @@ class Solution88 {
     static func test() {
         let solution = Solution88()
         var nums1 = [0]
-        var nums2 = [1]
+        let nums2 = [1]
         solution.merge(&nums1, 0, nums2, 1)
         print(nums1)
     }
