@@ -18,6 +18,8 @@
 * [190. 颠倒二进制位](https://leetcode.cn/problems/reverse-bits/) ---代码:[【解】](./leetcodes-swift/101-200/181-200/190.swift) ![](https://shields.io/badge/-易-green) 
 * [191. 位1的个数](https://leetcode.cn/problems/number-of-1-bits/) ---代码:[【解】](./leetcodes-swift/101-200/181-200/191.swift) ![](https://shields.io/badge/-易-green) 
 * [231. 2 的幂](https://leetcode.cn/problems/power-of-two/) ---代码:[【解】](./leetcodes-swift/201-300/221-240/231.swift) ![](https://shields.io/badge/-易-green)
+* [268. 丢失的数字](https://leetcode.cn/problems/missing-number/) ---代码:[【解】](./leetcodes-swift/201-300/261-280/268.swift) ![](https://shields.io/badge/-易-green)
+
 
 # 二、数据结构
 
