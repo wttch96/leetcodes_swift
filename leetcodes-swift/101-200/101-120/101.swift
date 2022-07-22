@@ -21,7 +21,7 @@ fileprivate class TreeNode {
 }
 
 
-fileprivate class Solution {
+fileprivate class Solution101 {
     func isSymmetric(_ root: TreeNode?) -> Bool {
         if root == nil {
             return true

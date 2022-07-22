@@ -9,6 +9,7 @@
 * [168. Excel表列名称](https://leetcode.cn/problems/excel-sheet-column-title/) ---代码:[【解】](./leetcodes-swift/101-200/161-180/168.swift) ![](https://shields.io/badge/-易-green) 
 * [169. 多数元素](https://leetcode.cn/problems/majority-element/) ---代码:[【解】](./leetcodes-swift/101-200/161-180/169.swift) ![](https://shields.io/badge/-易-green) 
 * [171. Excel 表列序号](https://leetcode.cn/problems/excel-sheet-column-number/) ---代码:[【解】](./leetcodes-swift/101-200/161-180/171.swift) ![](https://shields.io/badge/-易-green) 
+* [263. 丑数](https://leetcode.cn/problems/ugly-number/) ---代码:[【解】](./leetcodes-swift/201-300/261-280/263.swift) ![](https://shields.io/badge/-易-green)
 
 
 ## 位运算
@@ -63,6 +64,7 @@
 * [145. 二叉树的后序遍历](https://leetcode.cn/problems/binary-tree-postorder-traversal/) ---代码:[【解】](./leetcodes-swift/101-200/141-160/145.swift)
 * [226. 翻转二叉树](https://leetcode.cn/problems/invert-binary-tree/) ---代码:[【解】](./leetcodes-swift/201-300/221-240/226.swift) ![](https://shields.io/badge/-易-green)
 * [235. 二叉搜索树的最近公共祖先](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-search-tree/) ---代码:[【解】](./leetcodes-swift/201-300/221-240/235.swift) ![](https://shields.io/badge/-易-green) 
+* [257. 二叉树的所有路径](https://leetcode.cn/problems/binary-tree-paths/) ---代码:[【解】](./leetcodes-swift/201-300/241-260/257.swift) ![](https://shields.io/badge/-易-green)
 * [814. 二叉树剪枝](https://leetcode.cn/problems/binary-tree-pruning/) ---代码:[【解】](./leetcodes-swift/801-900/801-820/814.swift) ![](https://shields.io/badge/-中-orange) 
 
 
