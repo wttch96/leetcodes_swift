@@ -29,7 +29,7 @@
 
 ## 数组
 * [31. 下一个排列](https://leetcode.cn/problems/next-permutation/) ---代码:[【解】](./leetcodes-swift/001-100/21-40/31.swift) ![](https://shields.io/badge/-中-orange) 
-
+* [56. 合并区间](https://leetcode.cn/problems/merge-intervals/) ---代码:[【解】](./leetcodes-swift/001-100/41-60/56.swift) ![](https://shields.io/badge/-中-orange) 
 
 ## 栈
 * [32. 最长有效括号](https://leetcode.cn/problems/longest-valid-parentheses/) ---代码:[【解】](./leetcodes-swift/001-100/21-40/32.swift) ![](https://shields.io/badge/-难-red) 
