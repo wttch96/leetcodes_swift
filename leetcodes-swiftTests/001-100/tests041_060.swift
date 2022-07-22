@@ -23,6 +23,10 @@ final class tests041_060 : XCTestCase {
         Solution43.test()
     }
     
+    func test044() throws {
+        Solution44.test()
+    }
+    
     func test051() throws {
         Solution51.test()
     }
