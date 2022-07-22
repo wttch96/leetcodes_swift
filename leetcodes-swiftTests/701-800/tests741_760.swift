@@ -17,4 +17,8 @@ final class tests741_760 : XCTestCase {
     func test749() throws {
         Solution749.test()
     }
+    
+    func test757() throws {
+        Solution757.test()
+    }
 }
