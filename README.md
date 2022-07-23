@@ -43,7 +43,8 @@
 * [48. 旋转图像](https://leetcode.cn/problems/rotate-image/) ---代码:[【解】](./leetcodes-swift/001-100/41-60/48.swift) ![](https://shields.io/badge/-中-orange) 
 * [54. 螺旋矩阵](https://leetcode.cn/problems/spiral-matrix/) ---代码:[【解】](./leetcodes-swift/001-100/41-60/54.swift) ![](https://shields.io/badge/-中-orange)
 * [59. 螺旋矩阵 II](https://leetcode.cn/problems/spiral-matrix-ii/) ---代码:[【解】](./leetcodes-swift/001-100/41-60/59.swift) ![](https://shields.io/badge/-中-orange)   
-* [73. 矩阵置零](https://leetcode.cn/problems/set-matrix-zeroes/)  ---代码:[【解】](./leetcodes-swift/001-100/61-80/73.swift) ![](https://shields.io/badge/-中-orange)
+* [73. 矩阵置零](https://leetcode.cn/problems/set-matrix-zeroes/) ---代码:[【解】](./leetcodes-swift/001-100/61-80/73.swift) ![](https://shields.io/badge/-中-orange)
+* [74. 搜索二维矩阵](https://leetcode.cn/problems/search-a-2d-matrix/) ---代码:[【解】](./leetcodes-swift/001-100/61-80/74.swift) ![](https://shields.io/badge/-中-orange)
 * [1260. 二维网格迁移](https://leetcode.cn/problems/shift-2d-grid/) ---代码:[【解】](./leetcodes-swift/1201-1300/1241-1260/1260.swift) ![](https://shields.io/badge/-易-green) 
 
 
