@@ -127,6 +127,8 @@
 		4988D4B3288B06E7006297B7 /* 268.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4988D4B2288B06E7006297B7 /* 268.swift */; };
 		4988D4B8288B089E006297B7 /* 283.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4988D4B7288B089E006297B7 /* 283.swift */; };
 		4988D4BA288B0A31006297B7 /* 237.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4988D4B9288B0A31006297B7 /* 237.swift */; };
+		4988D4BC288BD382006297B7 /* offer_ii_115.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4988D4BB288BD382006297B7 /* offer_ii_115.swift */; };
+		4988D4BF288BD6E2006297B7 /* tests_offer_ii_101_120.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4988D4BE288BD6E2006297B7 /* tests_offer_ii_101_120.swift */; };
 		49AAD4E4288A86460002EDBB /* 60.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49AAD4E3288A86460002EDBB /* 60.swift */; };
 		49AAD4E6288A9F500002EDBB /* 62.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49AAD4E5288A9F500002EDBB /* 62.swift */; };
 		49AAD4E8288AA3FC0002EDBB /* tests061_080.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49AAD4E7288AA3FC0002EDBB /* tests061_080.swift */; };
@@ -266,6 +268,8 @@
 		4988D4B2288B06E7006297B7 /* 268.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 268.swift; sourceTree = "<group>"; };
 		4988D4B7288B089E006297B7 /* 283.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 283.swift; sourceTree = "<group>"; };
 		4988D4B9288B0A31006297B7 /* 237.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 237.swift; sourceTree = "<group>"; };
+		4988D4BB288BD382006297B7 /* offer_ii_115.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = offer_ii_115.swift; sourceTree = "<group>"; };
+		4988D4BE288BD6E2006297B7 /* tests_offer_ii_101_120.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tests_offer_ii_101_120.swift; sourceTree = "<group>"; };
 		49AAD4E3288A86460002EDBB /* 60.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 60.swift; sourceTree = "<group>"; };
 		49AAD4E5288A9F500002EDBB /* 62.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 62.swift; sourceTree = "<group>"; };
 		49AAD4E7288AA3FC0002EDBB /* tests061_080.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tests061_080.swift; sourceTree = "<group>"; };
@@ -333,6 +337,7 @@
 		49606CBA2885026D006CB30D /* leetcodes-swiftTests */ = {
 			isa = PBXGroup;
 			children = (
+				4988D4BD288BD6C2006297B7 /* offer_ii */,
 				49606D5D288502C8006CB30D /* 001-100 */,
 				49606D61288502C8006CB30D /* 101-200 */,
 				49606D8B2885695D006CB30D /* 201-300 */,
@@ -635,6 +640,7 @@
 			isa = PBXGroup;
 			children = (
 				49606D1928850295006CB30D /* offer_ii_041.swift */,
+				4988D4BB288BD382006297B7 /* offer_ii_115.swift */,
 			);
 			path = offer_ii;
 			sourceTree = "<group>";
@@ -774,6 +780,14 @@
 				4988D4B7288B089E006297B7 /* 283.swift */,
 			);
 			path = "281-300";
+			sourceTree = "<group>";
+		};
+		4988D4BD288BD6C2006297B7 /* offer_ii */ = {
+			isa = PBXGroup;
+			children = (
+				4988D4BE288BD6E2006297B7 /* tests_offer_ii_101_120.swift */,
+			);
+			path = offer_ii;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -960,6 +974,7 @@
 				49646494288A5B1400EBFAD7 /* 57.swift in Sources */,
 				496464802889032000EBFAD7 /* 39.swift in Sources */,
 				49606D1E28850295006CB30D /* 69.swift in Sources */,
+				4988D4BC288BD382006297B7 /* offer_ii_115.swift in Sources */,
 				49606D9528868425006CB30D /* 29.swift in Sources */,
 				49606DA02886A72E006CB30D /* 341.swift in Sources */,
 				49606DA42887A561006CB30D /* 1260.swift in Sources */,
@@ -1015,6 +1030,7 @@
 				49606D6A288502C8006CB30D /* tests121-140.swift in Sources */,
 				4964647E2888F4F900EBFAD7 /* tests861-880.swift in Sources */,
 				49606D68288502C8006CB30D /* tests081_100.swift in Sources */,
+				4988D4BF288BD6E2006297B7 /* tests_offer_ii_101_120.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
