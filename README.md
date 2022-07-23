@@ -143,3 +143,6 @@
 * [45. 跳跃游戏 II](https://leetcode.cn/problems/jump-game-ii/) ---代码:[【解】](./leetcodes-swift/001-100/41-60/45.swift) ![](https://shields.io/badge/-中-orange) 
 * [55. 跳跃游戏](https://leetcode.cn/problems/jump-game/) ---代码:[【解】](./leetcodes-swift/001-100/41-60/55.swift) ![](https://shields.io/badge/-中-orange) 
 * [757. 设置交集大小至少为2](https://leetcode.cn/problems/set-intersection-size-at-least-two/) ---代码:[【解】](./leetcodes-swift/701-800/741-760/757.swift) ![](https://shields.io/badge/-难-red) 
+
+# 四、逃课（待补课）
+* [65. 有效数字](https://leetcode.cn/problems/valid-number/) ---代码:[【解】](./leetcodes-swift/001-100/61-80/65.swift) ![](https://shields.io/badge/-难-red)
