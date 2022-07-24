@@ -74,7 +74,8 @@
 * [226. 翻转二叉树](https://leetcode.cn/problems/invert-binary-tree/) ---代码:[【解】](./leetcodes-swift/201-300/221-240/226.swift) ![](https://shields.io/badge/-易-green)
 * [235. 二叉搜索树的最近公共祖先](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-search-tree/) ---代码:[【解】](./leetcodes-swift/201-300/221-240/235.swift) ![](https://shields.io/badge/-易-green) 
 * [257. 二叉树的所有路径](https://leetcode.cn/problems/binary-tree-paths/) ---代码:[【解】](./leetcodes-swift/201-300/241-260/257.swift) ![](https://shields.io/badge/-易-green)
-* [814. 二叉树剪枝](https://leetcode.cn/problems/binary-tree-pruning/) ---代码:[【解】](./leetcodes-swift/801-900/801-820/814.swift) ![](https://shields.io/badge/-中-orange) 
+* [814. 二叉树剪枝](https://leetcode.cn/problems/binary-tree-pruning/) ---代码:[【解】](./leetcodes-swift/801-900/801-820/814.swift) ![](https://shields.io/badge/-中-orange)
+* [919. 完全二叉树插入器](https://leetcode.cn/problems/complete-binary-tree-inserter/) ---代码:[【解】](./leetcodes-swift/901-1000/901-920/919.swift) ![](https://shields.io/badge/-中-orange) 
 
 
 ## 字典树
