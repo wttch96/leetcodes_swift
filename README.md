@@ -127,6 +127,8 @@
 * [51. N 皇后](https://leetcode.cn/problems/n-queens/) ---代码:[【解】](./leetcodes-swift/001-100/41-60/51.swift)
 * [51. N 皇后II](https://leetcode.cn/problems/n-queens-ii/) ---代码:[【解】](./leetcodes-swift/001-100/41-60/52.swift)
 * [77. 组合](https://leetcode.cn/problems/combinations/) ---代码:[【解】](./leetcodes-swift/001-100/61-80/77.swift) ![](https://shields.io/badge/-中-orange)
+* [78. 子集](https://leetcode.cn/problems/subsets/) ---代码:[【解】](./leetcodes-swift/001-100/61-80/78.swift) ![](https://shields.io/badge/-中-orange)
+
 
 ## 哈希
 * [36. 有效的数独](https://leetcode.cn/problems/valid-sudoku/) ---代码:[【解】](./leetcodes-swift/001-100/21-40/36.swift) ![](https://shields.io/badge/-中-orange) 
