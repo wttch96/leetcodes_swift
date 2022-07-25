@@ -2,7 +2,7 @@
 
 # 一、数学 
 
-## 数学
+## 1.1 数学
 * [43. 字符串相乘](https://leetcode.cn/problems/multiply-strings/) ---代码:[【解】](./leetcodes-swift/001-100/41-60/43.swift) ![](https://shields.io/badge/-中-orange) 
 * [60. 排列序列](https://leetcode.cn/problems/permutation-sequence/) ---代码:[【解】](./leetcodes-swift/001-100/41-60/60.swift) ![](https://shields.io/badge/-难-red) 
 * [62. 不同路径](https://leetcode.cn/problems/unique-paths/) ---代码:[【解】](./leetcodes-swift/001-100/61-80/62.swift) ![](https://shields.io/badge/-中-orange)   
@@ -12,7 +12,7 @@
 * [263. 丑数](https://leetcode.cn/problems/ugly-number/) ---代码:[【解】](./leetcodes-swift/201-300/261-280/263.swift) ![](https://shields.io/badge/-易-green)
 
 
-## 位运算
+## 1.2 位运算
 * [29. 两数相除](https://leetcode.cn/problems/divide-two-integers/) ---代码:[【解】](./leetcodes-swift/001-100/21-40/29.swift) ![](https://shields.io/badge/-中-orange) 
 * [136. 只出现一次的数字](https://leetcode.cn/problems/single-number/) ---代码:[【解】](./leetcodes-swift/101-200/121-140/136.swift)
 * [190. 颠倒二进制位](https://leetcode.cn/problems/reverse-bits/) ---代码:[【解】](./leetcodes-swift/101-200/181-200/190.swift) ![](https://shields.io/badge/-易-green) 
@@ -23,17 +23,11 @@
 
 # 二、数据结构
 
-## 字符串
+## 2.1 字符串
 * [38. 外观数列](https://leetcode.cn/problems/count-and-say/) ---代码:[【解】](./leetcodes-swift/001-100/21-40/38.swift) ![](https://shields.io/badge/-中-orange) 
 
 
-## 简单链表
-* [203. 移除链表元素](https://leetcode.cn/problems/remove-linked-list-elements/) ---代码:[【解】](./leetcodes-swift/201-300/201-220/203.swift) ![](https://shields.io/badge/-易-green) 
-* [206. 反转链表](https://leetcode.cn/problems/reverse-linked-list/) ---代码:[【解】](./leetcodes-swift/201-300/201-220/206.swift) ![](https://shields.io/badge/-易-green) 
-* [237. 删除链表中的节点](https://leetcode.cn/problems/delete-node-in-a-linked-list/) ---代码:[【解】](./leetcodes-swift/201-300/221-240/237.swift) ![](https://shields.io/badge/-易-green)
-
-
-## 数组
+## 2.2 数组
 * [31. 下一个排列](https://leetcode.cn/problems/next-permutation/) ---代码:[【解】](./leetcodes-swift/001-100/21-40/31.swift) ![](https://shields.io/badge/-中-orange) 
 * [56. 合并区间](https://leetcode.cn/problems/merge-intervals/) ---代码:[【解】](./leetcodes-swift/001-100/41-60/56.swift) ![](https://shields.io/badge/-中-orange) 
 * [57. 插入区间](https://leetcode.cn/problems/insert-interval/) ---代码:[【解】](./leetcodes-swift/001-100/41-60/57.swift) ![](https://shields.io/badge/-中-orange)
@@ -41,7 +35,8 @@
 * [283. 移动零](https://leetcode.cn/problems/move-zeroes/) ---代码:[【解】](./leetcodes-swift/201-300/281-300/283.swift) ![](https://shields.io/badge/-易-green)
 * [1184. 公交站间的距离](https://leetcode.cn/problems/distance-between-bus-stops/) ---代码:[【解】](./leetcodes-swift/1101-1200/1181-1200/1184.swift) ![](https://shields.io/badge/-易-green)
 
-## 矩阵
+
+## 2.3 矩阵
 * [48. 旋转图像](https://leetcode.cn/problems/rotate-image/) ---代码:[【解】](./leetcodes-swift/001-100/41-60/48.swift) ![](https://shields.io/badge/-中-orange) 
 * [54. 螺旋矩阵](https://leetcode.cn/problems/spiral-matrix/) ---代码:[【解】](./leetcodes-swift/001-100/41-60/54.swift) ![](https://shields.io/badge/-中-orange)
 * [59. 螺旋矩阵 II](https://leetcode.cn/problems/spiral-matrix-ii/) ---代码:[【解】](./leetcodes-swift/001-100/41-60/59.swift) ![](https://shields.io/badge/-中-orange)   
@@ -50,19 +45,27 @@
 * [1260. 二维网格迁移](https://leetcode.cn/problems/shift-2d-grid/) ---代码:[【解】](./leetcodes-swift/1201-1300/1241-1260/1260.swift) ![](https://shields.io/badge/-易-green) 
 
 
-## 栈
+## 2.4 简单链表
+* [203. 移除链表元素](https://leetcode.cn/problems/remove-linked-list-elements/) ---代码:[【解】](./leetcodes-swift/201-300/201-220/203.swift) ![](https://shields.io/badge/-易-green) 
+* [206. 反转链表](https://leetcode.cn/problems/reverse-linked-list/) ---代码:[【解】](./leetcodes-swift/201-300/201-220/206.swift) ![](https://shields.io/badge/-易-green) 
+* [237. 删除链表中的节点](https://leetcode.cn/problems/delete-node-in-a-linked-list/) ---代码:[【解】](./leetcodes-swift/201-300/221-240/237.swift) ![](https://shields.io/badge/-易-green)
+
+
+## 2.5 栈
+### 2.5.1 栈基础
 * [32. 最长有效括号](https://leetcode.cn/problems/longest-valid-parentheses/) ---代码:[【解】](./leetcodes-swift/001-100/21-40/32.swift) ![](https://shields.io/badge/-难-red) 
 * [71. 简化路径](https://leetcode.cn/problems/simplify-path/)  ---代码:[【解】](./leetcodes-swift/001-100/61-80/71.swift) ![](https://shields.io/badge/-中-orange)
 * [735. 行星碰撞](https://leetcode.cn/problems/asteroid-collision//)  ---代码:[【解】](./leetcodes-swift/701-800/731-740/735.swift)
 * [225. 用队列实现栈](https://leetcode.cn/problems/implement-stack-using-queues/) ---代码:[【解】](./leetcodes-swift/201-300/221-240/225.swift) ![](https://shields.io/badge/-易-green)
 * [232. 用栈实现队列](https://leetcode.cn/problems/implement-queue-using-stacks/) ---代码:[【解】](./leetcodes-swift/201-300/221-240/232.swift) ![](https://shields.io/badge/-易-green)
+### 2.5.2 单调栈
 
 
-## 队列
+## 2.6 队列
 * [239. 滑动窗口最大值](https://leetcode.cn/problems/sliding-window-maximum/) ---代码:[【解】](./leetcodes-swift/201-300/221-240/239.swift) ![](https://shields.io/badge/-难-red) 
 
 
-## 二叉树
+## 2.7 二叉树
 * [102. 二叉树的层序遍历](https://leetcode.cn/problems/binary-tree-level-order-traversal/) ---代码:[【解】](./leetcodes-swift/101-200/101-120/102.swift) ![](https://shields.io/badge/-中-orange) 
 * [103. 二叉树的锯齿形层序遍历](https://leetcode.cn/problems/binary-tree-level-order-traversal/) ---代码:[【解】](./leetcodes-swift/101-200/101-120/102.swift) ![](https://shields.io/badge/-中-orange) 
 * [104. 二叉树的最大深度](https://leetcode.cn/problems/maximum-depth-of-binary-tree/) ---代码:[【解】](./leetcodes-swift/101-200/101-120/104.swift)
@@ -78,11 +81,11 @@
 * [919. 完全二叉树插入器](https://leetcode.cn/problems/complete-binary-tree-inserter/) ---代码:[【解】](./leetcodes-swift/901-1000/901-920/919.swift) ![](https://shields.io/badge/-中-orange) 
 
 
-## 字典树
+## 2.8 字典树
 * [745. 前缀和后缀搜索](https://leetcode.cn/problems/prefix-and-suffix-search/) ---代码:[【解】](./leetcodes-swift/701-800/741-760/745.swift)
 
 
-## 图
+## 2.9 图
 * [剑指 Offer II 115. 重建序列](https://leetcode.cn/problems/ur2n8P/) ---代码:[【解】](./leetcodes-swift/offer_ii/offer_ii_115.swift) ![](https://shields.io/badge/-中-orange)
 
 
