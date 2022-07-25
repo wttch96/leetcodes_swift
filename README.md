@@ -114,6 +114,7 @@
 * [18. 四数之和](https://leetcode.cn/problems/4sum/) ---代码:[【解】](./leetcodes-swift/001-100/01-20/18.swift) ![](https://shields.io/badge/-中-orange) 
 * [42. 接雨水](https://leetcode.cn/problems/trapping-rain-water/) ---代码:[【解】](./leetcodes-swift/001-100/41-60/42.swift) ![](https://shields.io/badge/-难-red) 
 * [75. 颜色分类](https://leetcode.cn/problems/sort-colors/) ---代码:[【解】](./leetcodes-swift/001-100/61-80/75.swift) ![](https://shields.io/badge/-中-orange)
+* [76. 最小覆盖子串](https://leetcode.cn/problems/minimum-window-substring/) ---代码:[【解】](./leetcodes-swift/001-100/61-80/76.swift) ![](https://shields.io/badge/-难-red)
 * [125. 验证回文串](https://leetcode.cn/problems/valid-palindrome/) ---代码:[【解】](./leetcodes-swift/101-200/121-140/125.swift)
 * [141. 环形链表](https://leetcode.cn/problems/linked-list-cycle/) ---代码:[【解】](./leetcodes-swift/101-200/141-160/141.swift)
 * [142. 环形链表II](https://leetcode.cn/problems/linked-list-cycle/) ---代码:[【解】](./leetcodes-swift/101-200/141-160/142.swift)
