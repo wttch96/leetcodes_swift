@@ -18,6 +18,10 @@ final class tests081_100: XCTestCase {
         // Put teardown code here. This method is called after the invocation of each test method in the class.
     }
     
+    func test81() throws {
+        Solution81.test()
+    }
+    
     func test84() throws {
         Solution84.test()
     }
