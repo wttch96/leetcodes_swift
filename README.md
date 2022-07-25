@@ -47,6 +47,7 @@
 
 ## 2.4 简单链表
 * [82. 删除排序链表中的重复元素 II](https://leetcode.cn/problems/remove-duplicates-from-sorted-list-ii/) ---代码:[【解】](./leetcodes-swift/001-100/81-100/82.swift) ![](https://shields.io/badge/-中-orange)
+* [86. 分隔链表](https://leetcode.cn/problems/partition-list/) ---代码:[【解】](./leetcodes-swift/001-100/81-100/86.swift) ![](https://shields.io/badge/-中-orange)
 * [203. 移除链表元素](https://leetcode.cn/problems/remove-linked-list-elements/) ---代码:[【解】](./leetcodes-swift/201-300/201-220/203.swift) ![](https://shields.io/badge/-易-green) 
 * [206. 反转链表](https://leetcode.cn/problems/reverse-linked-list/) ---代码:[【解】](./leetcodes-swift/201-300/201-220/206.swift) ![](https://shields.io/badge/-易-green) 
 * [237. 删除链表中的节点](https://leetcode.cn/problems/delete-node-in-a-linked-list/) ---代码:[【解】](./leetcodes-swift/201-300/221-240/237.swift) ![](https://shields.io/badge/-易-green)
