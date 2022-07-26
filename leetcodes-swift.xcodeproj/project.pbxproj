@@ -129,6 +129,7 @@
 		49697A70288E9F0C0045D27E /* 86.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49697A6F288E9F0C0045D27E /* 86.swift */; };
 		49697A73288F82E30045D27E /* 1206.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49697A72288F82E30045D27E /* 1206.swift */; };
 		4979DD11288F990B00FF232A /* 92.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4979DD10288F990B00FF232A /* 92.swift */; };
+		4979DD13288FBD8200FF232A /* 85.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4979DD12288FBD8200FF232A /* 85.swift */; };
 		4988D4AC288AFEE3006297B7 /* 257.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4988D4AB288AFEE3006297B7 /* 257.swift */; };
 		4988D4AF288B0142006297B7 /* 263.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4988D4AE288B0142006297B7 /* 263.swift */; };
 		4988D4B1288B03D1006297B7 /* 231.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4988D4B0288B03D1006297B7 /* 231.swift */; };
@@ -293,6 +294,7 @@
 		49697A6F288E9F0C0045D27E /* 86.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 86.swift; sourceTree = "<group>"; };
 		49697A72288F82E30045D27E /* 1206.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1206.swift; sourceTree = "<group>"; };
 		4979DD10288F990B00FF232A /* 92.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 92.swift; sourceTree = "<group>"; };
+		4979DD12288FBD8200FF232A /* 85.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 85.swift; sourceTree = "<group>"; };
 		4988D4AB288AFEE3006297B7 /* 257.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 257.swift; sourceTree = "<group>"; };
 		4988D4AE288B0142006297B7 /* 263.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 263.swift; sourceTree = "<group>"; };
 		4988D4B0288B03D1006297B7 /* 231.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 231.swift; sourceTree = "<group>"; };
@@ -539,6 +541,7 @@
 				49697A6D288E9C0F0045D27E /* 82.swift */,
 				49606CE928850295006CB30D /* 83.swift */,
 				49697A67288E628F0045D27E /* 84.swift */,
+				4979DD12288FBD8200FF232A /* 85.swift */,
 				49697A6F288E9F0C0045D27E /* 86.swift */,
 				49606CEC28850295006CB30D /* 88.swift */,
 				4988D4E0288DAEAA006297B7 /* 90.swift */,
@@ -1013,6 +1016,7 @@
 				49606D4228850295006CB30D /* 102.swift in Sources */,
 				49606D4428850295006CB30D /* 101.swift in Sources */,
 				49697A6E288E9C0F0045D27E /* 82.swift in Sources */,
+				4979DD13288FBD8200FF232A /* 85.swift in Sources */,
 				49606D4028850295006CB30D /* 104.swift in Sources */,
 				49606CB12885026C006CB30D /* leetcodes_swift.docc in Sources */,
 				49606D1F28850295006CB30D /* 70.swift in Sources */,

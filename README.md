@@ -64,6 +64,7 @@
 
 ### 2.5.2 单调栈
 * [84. 柱状图中最大的矩形](https://leetcode.cn/problems/largest-rectangle-in-histogram/) ---代码:[【解】](./leetcodes-swift/001-100/81-100/84.swift) ![](https://shields.io/badge/-难-red)
+* [85. 最大矩形](https://leetcode.cn/problems/maximal-rectangle/) ---代码:[【解】](./leetcodes-swift/001-100/81-100/85.swift) ![](https://shields.io/badge/-难-red)
 
 
 ## 2.6 队列

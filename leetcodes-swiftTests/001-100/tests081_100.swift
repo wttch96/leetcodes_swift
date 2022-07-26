@@ -26,6 +26,10 @@ final class tests081_100: XCTestCase {
         Solution84.test()
     }
     
+    func test85() throws {
+        Solution85.test()
+    }
+    
     func test88() throws {
         Solution88.test()
     }
