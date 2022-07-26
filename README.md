@@ -93,6 +93,9 @@
 * [剑指 Offer II 115. 重建序列](https://leetcode.cn/problems/ur2n8P/) ---代码:[【解】](./leetcodes-swift/offer_ii/offer_ii_115.swift) ![](https://shields.io/badge/-中-orange)
 
 
+## 2.10 设计结构
+* [1206. 设计跳表](https://leetcode.cn/problems/design-skiplist/) ---代码:[【解】](./leetcodes-swift/1201-1300/1201-1220/1206.swift)
+
 # 三、算法
 
 ## 滑动窗口
