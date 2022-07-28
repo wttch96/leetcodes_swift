@@ -80,6 +80,7 @@
 * [107. 二叉树的层序遍历 II](https://leetcode.cn/problems/binary-tree-level-order-traversal-ii/) ---代码:[【解】](./leetcodes-swift/101-200/101-120/107.swift) ![](https://shields.io/badge/-中-orange) 
 * [110. 平衡二叉树](https://leetcode.cn/problems/balanced-binary-tree/) ---代码:[【解】](./leetcodes-swift/101-200/101-120/110.swift)
 * [111. 二叉树的最小深度](https://leetcode.cn/problems/minimum-depth-of-binary-tree/) ---代码:[【解】](./leetcodes-swift/101-200/101-120/111.swift)
+* [114. 二叉树展开为链表](https://leetcode.cn/problems/flatten-binary-tree-to-linked-list/) ---代码:[【解】](./leetcodes-swift/101-200/101-120/114.swift)
 * [116. 填充每个节点的下一个右侧节点指针](https://leetcode.cn/problems/populating-next-right-pointers-in-each-node/) ---代码:[【解】](./leetcodes-swift/101-200/101-120/116.swift)
 * [144. 二叉树的前序遍历](https://leetcode.cn/problems/binary-tree-preorder-traversal/) ---代码:[【解】](./leetcodes-swift/101-200/141-160/144.swift)
 * [145. 二叉树的后序遍历](https://leetcode.cn/problems/binary-tree-postorder-traversal/) ---代码:[【解】](./leetcodes-swift/101-200/141-160/145.swift)
