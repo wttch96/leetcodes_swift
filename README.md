@@ -11,6 +11,7 @@
 * [171. Excel 表列序号](https://leetcode.cn/problems/excel-sheet-column-number/) ---代码:[【解】](./leetcodes-swift/101-200/161-180/171.swift) ![](https://shields.io/badge/-易-green) 
 * [263. 丑数](https://leetcode.cn/problems/ugly-number/) ---代码:[【解】](./leetcodes-swift/201-300/261-280/263.swift) ![](https://shields.io/badge/-易-green)
 * [592. 分数加减运算](https://leetcode.cn/problems/fraction-addition-and-subtraction/) ---代码:[【解】](./leetcodes-swift/501-600/581-600/592.swift) ![](https://shields.io/badge/-中-orange)
+* [593. 有效的正方形](https://leetcode.cn/problems/valid-square/) ---代码:[【解】](./leetcodes-swift/501-600/581-600/593.swift) ![](https://shields.io/badge/-中-orange)
 
 ## 1.2 位运算
 
