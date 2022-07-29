@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		492A2781289283C70000F159 /* 116.swift in Sources */ = {isa = PBXBuildFile; fileRef = 492A2780289283C70000F159 /* 116.swift */; };
 		492A2783289289270000F159 /* 114.swift in Sources */ = {isa = PBXBuildFile; fileRef = 492A2782289289270000F159 /* 114.swift */; };
+		492A27852892A4A00000F159 /* 122.swift in Sources */ = {isa = PBXBuildFile; fileRef = 492A27842892A4A00000F159 /* 122.swift */; };
 		49606CB12885026C006CB30D /* leetcodes_swift.docc in Sources */ = {isa = PBXBuildFile; fileRef = 49606CB02885026C006CB30D /* leetcodes_swift.docc */; };
 		49606CB72885026D006CB30D /* leetcodes_swift.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 49606CAC2885026C006CB30D /* leetcodes_swift.framework */; };
 		49606CBC2885026D006CB30D /* leetcodes_swiftTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49606CBB2885026D006CB30D /* leetcodes_swiftTests.swift */; };
@@ -180,6 +181,7 @@
 /* Begin PBXFileReference section */
 		492A2780289283C70000F159 /* 116.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 116.swift; sourceTree = "<group>"; };
 		492A2782289289270000F159 /* 114.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 114.swift; sourceTree = "<group>"; };
+		492A27842892A4A00000F159 /* 122.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 122.swift; sourceTree = "<group>"; };
 		49606CAC2885026C006CB30D /* leetcodes_swift.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = leetcodes_swift.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		49606CAF2885026C006CB30D /* leetcodes_swift.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = leetcodes_swift.h; sourceTree = "<group>"; };
 		49606CB02885026C006CB30D /* leetcodes_swift.docc */ = {isa = PBXFileReference; lastKnownFileType = folder.documentationcatalog; path = leetcodes_swift.docc; sourceTree = "<group>"; };
@@ -616,9 +618,10 @@
 		49606CFF28850295006CB30D /* 121-140 */ = {
 			isa = PBXGroup;
 			children = (
-				49606D0028850295006CB30D /* 136.swift */,
 				49606D0128850295006CB30D /* 121.swift */,
+				492A27842892A4A00000F159 /* 122.swift */,
 				49606D0228850295006CB30D /* 125.swift */,
+				49606D0028850295006CB30D /* 136.swift */,
 			);
 			path = "121-140";
 			sourceTree = "<group>";
@@ -1102,6 +1105,7 @@
 				49606D5228850295006CB30D /* 235.swift in Sources */,
 				49606D3428850295006CB30D /* 94.swift in Sources */,
 				49606D7328853505006CB30D /* 18.swift in Sources */,
+				492A27852892A4A00000F159 /* 122.swift in Sources */,
 				49697A6C288E93670045D27E /* 81.swift in Sources */,
 				49606D6F28852B78006CB30D /* 15.swift in Sources */,
 				4988D4DF288DA81D006297B7 /* 919.swift in Sources */,
