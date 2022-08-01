@@ -16,6 +16,7 @@
 ## 1.2 位运算
 
 * [29. 两数相除](https://leetcode.cn/problems/divide-two-integers/) ---代码:[【解】](./leetcodes-swift/001-100/21-40/29.swift) ![](https://shields.io/badge/-中-orange) 
+* [89. 格雷编码](https://leetcode.cn/problems/gray-code/) ---代码:[【解】](./leetcodes-swift/001-100/81-100/89.swift) ![](https://shields.io/badge/-中-orange)
 * [136. 只出现一次的数字](https://leetcode.cn/problems/single-number/) ---代码:[【解】](./leetcodes-swift/101-200/121-140/136.swift)
 * [190. 颠倒二进制位](https://leetcode.cn/problems/reverse-bits/) ---代码:[【解】](./leetcodes-swift/101-200/181-200/190.swift) ![](https://shields.io/badge/-易-green) 
 * [191. 位1的个数](https://leetcode.cn/problems/number-of-1-bits/) ---代码:[【解】](./leetcodes-swift/101-200/181-200/191.swift) ![](https://shields.io/badge/-易-green) 

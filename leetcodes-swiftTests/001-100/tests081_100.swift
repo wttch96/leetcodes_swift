@@ -38,6 +38,10 @@ final class tests081_100: XCTestCase {
         Solution88.test()
     }
     
+    func test89() throws {
+        Solution89.test()
+    }
+    
     func testPerformanceExample() throws {
         // This is an example of a performance test case.
         self.measure {
