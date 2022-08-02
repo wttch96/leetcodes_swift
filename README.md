@@ -156,6 +156,7 @@
 * [78. 子集](https://leetcode.cn/problems/subsets/) ---代码:[【解】](./leetcodes-swift/001-100/61-80/78.swift) ![](https://shields.io/badge/-中-orange)
 * [79. 单词搜索](https://leetcode.cn/problems/word-search/) ---代码:[【解】](./leetcodes-swift/001-100/61-80/79.swift) ![](https://shields.io/badge/-中-orange)
 * [90. 子集II](https://leetcode.cn/problems/subsets-ii/) ---代码:[【解】](./leetcodes-swift/001-100/81-100/90.swift) ![](https://shields.io/badge/-中-orange)
+* [93. 复原 IP 地址](https://leetcode.cn/problems/restore-ip-addresses/) ---代码:[【解】](./leetcodes-swift/001-100/81-100/93.swift) ![](https://shields.io/badge/-中-orange)
 
 
 ## 哈希
