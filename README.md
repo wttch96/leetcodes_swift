@@ -104,6 +104,7 @@
 
 ## 2.10 设计结构
 * [155. 最小栈](https://leetcode.cn/problems/min-stack/) ---代码:[【解】](./leetcodes-swift/101-200/141-160/155.swift)
+* [622. 设计循环队列](https://leetcode.cn/problems/design-circular-queue/) ---代码:[【解】](./leetcodes-swift/601-700/621-640/622.swift) ![](https://shields.io/badge/-中-orange) 
 * [1206. 设计跳表](https://leetcode.cn/problems/design-skiplist/) ---代码:[【解】](./leetcodes-swift/1201-1300/1201-1220/1206.swift)
 
 # 三、算法
