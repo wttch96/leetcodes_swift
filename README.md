@@ -124,6 +124,7 @@
 * [64. 最小路径和](https://leetcode.cn/problems/minimum-path-sum/) ---代码:[【解】](./leetcodes-swift/001-100/61-80/64.swift) ![](https://shields.io/badge/-中-orange) 
 * [72. 编辑距离](https://leetcode.cn/problems/edit-distance/) ---代码:[【解】](./leetcodes-swift/001-100/61-80/72.swift) ![](https://shields.io/badge/-难-red)
 * [87. 扰乱字符串](https://leetcode.cn/problems/scramble-string/) ---代码:[【解】](./leetcodes-swift/001-100/81-100/87.swift) ![](https://shields.io/badge/-难-red)
+* [91. 解码方法](https://leetcode.cn/problems/decode-ways/) ---代码:[【解】](./leetcodes-swift/001-100/81-100/91.swift) ![](https://shields.io/badge/-中-orange)
 * [118. 杨辉三角](https://leetcode.cn/problems/pascals-triangle/) ---代码:[【解】](./leetcodes-swift/101-200/101-120/118.swift) (算最简单的动态规划?) 
 * [119. 杨辉三角II](https://leetcode.cn/problems/pascals-triangle-ii/) ---代码:[【解】](./leetcodes-swift/101-200/101-120/119.swift)
 * [120. 三角形最小路径和](https://leetcode.cn/problems/triangle/) ---代码:[【解】](./leetcodes-swift/101-200/101-120/120.swift)
