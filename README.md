@@ -28,6 +28,7 @@
 
 ## 2.1 字符串
 * [38. 外观数列](https://leetcode.cn/problems/count-and-say/) ---代码:[【解】](./leetcodes-swift/001-100/21-40/38.swift) ![](https://shields.io/badge/-中-orange) 
+* [889. 有序队列](https://leetcode.cn/problems/orderly-queue/) ---代码:[【解】](./leetcodes-swift/801-900/880-900/889.swift) ![](https://shields.io/badge/-难-red) 
 * [1374. 生成每种字符都是奇数个的字符串](https://leetcode.cn/problems/generate-a-string-with-characters-that-have-odd-counts/) ---代码:[【解】](./leetcodes-swift/1301-1400/1371-1380/1374.swift) ![](https://shields.io/badge/-易-green)
 
 
