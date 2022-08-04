@@ -175,6 +175,7 @@
 		49AAD4E8288AA3FC0002EDBB /* tests061_080.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49AAD4E7288AA3FC0002EDBB /* tests061_080.swift */; };
 		49AAD4EC288AAB4D0002EDBB /* 63.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49AAD4EB288AAB4D0002EDBB /* 63.swift */; };
 		49AAD4EE288AAF470002EDBB /* 64.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49AAD4ED288AAF470002EDBB /* 64.swift */; };
+		49FE2FF1289B9C1600A0FB9B /* 1403.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49FE2FF0289B9C1600A0FB9B /* 1403.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -357,6 +358,7 @@
 		49AAD4E7288AA3FC0002EDBB /* tests061_080.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tests061_080.swift; sourceTree = "<group>"; };
 		49AAD4EB288AAB4D0002EDBB /* 63.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 63.swift; sourceTree = "<group>"; };
 		49AAD4ED288AAF470002EDBB /* 64.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 64.swift; sourceTree = "<group>"; };
+		49FE2FF0289B9C1600A0FB9B /* 1403.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1403.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -428,6 +430,7 @@
 				4988D4D6288CF160006297B7 /* 1101-1200 */,
 				49606CC628850295006CB30D /* 1201-1300 */,
 				4980426528926D6700B617CA /* 1301-1400 */,
+				49FE2FEE289B9BFD00A0FB9B /* 1401-1500 */,
 				49606D1828850295006CB30D /* offer_ii */,
 				49606CAF2885026C006CB30D /* leetcodes_swift.h */,
 				49606CB02885026C006CB30D /* leetcodes_swift.docc */,
@@ -1009,6 +1012,22 @@
 			path = "1371-1380";
 			sourceTree = "<group>";
 		};
+		49FE2FEE289B9BFD00A0FB9B /* 1401-1500 */ = {
+			isa = PBXGroup;
+			children = (
+				49FE2FEF289B9C0A00A0FB9B /* 1401-1420 */,
+			);
+			path = "1401-1500";
+			sourceTree = "<group>";
+		};
+		49FE2FEF289B9C0A00A0FB9B /* 1401-1420 */ = {
+			isa = PBXGroup;
+			children = (
+				49FE2FF0289B9C1600A0FB9B /* 1403.swift */,
+			);
+			path = "1401-1420";
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
@@ -1126,6 +1145,7 @@
 				49606D4428850295006CB30D /* 101.swift in Sources */,
 				49697A6E288E9C0F0045D27E /* 82.swift in Sources */,
 				4979DD13288FBD8200FF232A /* 85.swift in Sources */,
+				49FE2FF1289B9C1600A0FB9B /* 1403.swift in Sources */,
 				49606D4028850295006CB30D /* 104.swift in Sources */,
 				49606CB12885026C006CB30D /* leetcodes_swift.docc in Sources */,
 				49606D1F28850295006CB30D /* 70.swift in Sources */,

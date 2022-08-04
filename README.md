@@ -187,6 +187,8 @@
 * [55. 跳跃游戏](https://leetcode.cn/problems/jump-game/) ---代码:[【解】](./leetcodes-swift/001-100/41-60/55.swift) ![](https://shields.io/badge/-中-orange) 
 * [68. 文本左右对齐](https://leetcode.cn/problems/text-justification/) ---代码:[【解】](./leetcodes-swift/001-100/61-80/68.swift) ![](https://shields.io/badge/-难-red)
 * [757. 设置交集大小至少为2](https://leetcode.cn/problems/set-intersection-size-at-least-two/) ---代码:[【解】](./leetcodes-swift/701-800/741-760/757.swift) ![](https://shields.io/badge/-难-red) 
+* [1403. 非递增顺序的最小子序列](https://leetcode.cn/problems/minimum-subsequence-in-non-increasing-order/) ---代码:[【解】](./leetcodes-swift/1401-1500/1401-1420/1403.swift)  ![](https://shields.io/badge/-易-green) 
+
 
 # 四、逃课（待补课）
 * [65. 有效数字](https://leetcode.cn/problems/valid-number/) ---代码:[【解】](./leetcodes-swift/001-100/61-80/65.swift) ![](https://shields.io/badge/-难-red)
