@@ -51,7 +51,7 @@ final class tests081_100: XCTestCase {
     }
     
     func test97() throws {
-        Solution97.test()
+        runTest(Solution97.self)
     }
     
     func testPerformanceExample() throws {

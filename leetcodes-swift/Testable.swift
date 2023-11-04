@@ -17,12 +17,8 @@ protocol Testable {
 }
 
 extension Testable {
-    /// 自身的一个实例
-    private static var solution: Self {
-        return Self.init()
-    }
     /// 单元测试调用的方法
     static func test() {
-        solution.test()
+        Self.init().test()
     }
 }

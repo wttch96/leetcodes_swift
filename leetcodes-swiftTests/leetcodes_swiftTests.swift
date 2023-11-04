@@ -34,3 +34,11 @@ final class leetcodes_swiftTests: XCTestCase {
     }
 
 }
+
+
+extension XCTestCase {
+    /// 执行 Testable 的 test 方法
+    func runTest<T: Testable>(_ type: T.Type) {
+        T.test()
+    }
+}
