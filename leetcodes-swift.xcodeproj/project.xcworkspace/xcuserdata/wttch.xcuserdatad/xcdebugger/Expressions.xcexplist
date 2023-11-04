@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Solution60.getPermutation(_:_:):60.swift">
+      </ContextState>
+      <ContextState
+         contextName = "Solution62.C(_:_:):62.swift">
+      </ContextState>
+      <ContextState
+         contextName = "Solution59.generateMatrix(_:):59.swift">
+      </ContextState>
+      <ContextState
+         contextName = "tests061_080.test062():tests061_080.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "NSClassFromString(&quot;Solution62&quot;)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

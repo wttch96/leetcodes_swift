@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8BD00F46-3016-4F2B-97EB-80173E73493C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5C7C2BFC-3DC1-406D-BF67-2AD64F0A8306"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "leetcodes-swift/001-100/61-80/64.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "minPathSum(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5C7C2BFC-3DC1-406D-BF67-2AD64F0A8306 - 7a130fc4a18fd9ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "leetcodes_swift.Solution64.minPathSum(Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;) -&gt; Swift.Int"
+                  moduleName = "leetcodes_swift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wttch/workspace/leetcodes-swift/leetcodes-swift/001-100/61-80/64.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "3348">
+               </Location>
+               <Location
+                  uuid = "5C7C2BFC-3DC1-406D-BF67-2AD64F0A8306 - 7a130fc4a18fd9ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "leetcodes_swift.Solution64.minPathSum(Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;) -&gt; Swift.Int"
+                  moduleName = "leetcodes_swift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wttch/workspace/leetcodes-swift/leetcodes-swift/001-100/61-80/64.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "3344">
+               </Location>
+               <Location
+                  uuid = "5C7C2BFC-3DC1-406D-BF67-2AD64F0A8306 - 7a130fc4a18fd9ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "leetcodes_swift.Solution64.minPathSum(Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;) -&gt; Swift.Int"
+                  moduleName = "leetcodes_swift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wttch/workspace/leetcodes-swift/leetcodes-swift/001-100/61-80/64.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "2512">
+               </Location>
+               <Location
+                  uuid = "5C7C2BFC-3DC1-406D-BF67-2AD64F0A8306 - 7a130fc4a18fd9ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "leetcodes_swift.Solution64.minPathSum(Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;) -&gt; Swift.Int"
+                  moduleName = "leetcodes_swift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wttch/workspace/leetcodes-swift/leetcodes-swift/001-100/61-80/64.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "2864">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
