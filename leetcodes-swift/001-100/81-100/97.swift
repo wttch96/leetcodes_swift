@@ -12,10 +12,8 @@ import Foundation
 ///
 ///
 ///
-class Solution97 {
-    
-    fileprivate init() {}
-    
+class Solution97: Testable {
+    required init() {}
     
     func isInterleave(_ s1: String, _ s2: String, _ s3: String) -> Bool {
         return isInterleave2(s1, s2, s3)
@@ -73,12 +71,12 @@ class Solution97 {
         
         return dp.last!
     }
-    
-    static func test() {
-        let solution = Solution97()
-        
-        assert(solution.isInterleave("aabcc", "dbbca", "aadbbcbcac"))
-        assert(solution.isInterleave("", "", ""))
-        assert(!solution.isInterleave("aabcc", "dbbca", "aadbbbaccc"))
+}
+
+extension Solution97 {
+    func test() {
+        assert(isInterleave("aabcc", "dbbca", "aadbbcbcac"))
+        assert(isInterleave("", "", ""))
+        assert(!isInterleave("aabcc", "dbbca", "aadbbbaccc"))
     }
 }

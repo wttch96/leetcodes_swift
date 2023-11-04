@@ -78,6 +78,7 @@
 
 
 ## 2.7 二叉树
+* [98. 验证二叉搜索树](https://leetcode.cn/problems/validate-binary-search-tree)( [![](https://shields.io/badge/-中-orange)](./leetcodes-swift/001-100/81-100/98.swift))
 * [102. 二叉树的层序遍历](https://leetcode.cn/problems/binary-tree-level-order-traversal/) ---代码:[【解】](./leetcodes-swift/101-200/101-120/102.swift) ![](https://shields.io/badge/-中-orange) 
 * [103. 二叉树的锯齿形层序遍历](https://leetcode.cn/problems/binary-tree-level-order-traversal/) ---代码:[【解】](./leetcodes-swift/101-200/101-120/102.swift) ![](https://shields.io/badge/-中-orange) 
 * [104. 二叉树的最大深度](https://leetcode.cn/problems/maximum-depth-of-binary-tree/) ---代码:[【解】](./leetcodes-swift/101-200/101-120/104.swift)
